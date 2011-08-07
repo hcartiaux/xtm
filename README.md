@@ -9,10 +9,10 @@ Le format de fichier `XTM` est le format utilisé par le logiciel [XTRemSplit](h
     $ git clone git://github.com/hcartiaux/xtm.git
     $ cd xtm
     $ make
-    \# make install
+    # make install
 
 #Utilisation
 
-    xtm -i path/to/file.001.xtm \[-o output/directory/\] \[-f\] \[-v\]
+    xtm -i path/to/file.001.xtm [-o output/directory/] [-f] [-v]
 
 Lisez la page de manuel pour plus d'informations.
